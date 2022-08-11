@@ -1,0 +1,10 @@
+20:08:08.045 [TestNG-tests-2] DEBUG realtimeproject.LoginTest - Navigated to Tutorials Application
+20:08:08.104 [TestNG-tests-2] DEBUG realtimeproject.LoginTest - Clicked on My Account dropdown
+20:08:08.463 [TestNG-tests-2] DEBUG realtimeproject.LoginTest - Clicked on login Button
+20:08:08.464 [TestNG-tests-2] DEBUG realtimeproject.LoginTest - Navigated to Login Page
+20:08:10.405 [TestNG-tests-2] DEBUG realtimeproject.LoginTest - Entered Email address
+20:08:10.469 [TestNG-tests-2] DEBUG realtimeproject.LoginTest - Entered Password
+20:08:10.860 [TestNG-tests-2] DEBUG realtimeproject.LoginTest - Clicked on login Button
+20:08:10.895 [TestNG-tests-2] INFO  realtimeproject.LoginTest - Login got Successfull
+20:08:55.131 [AsyncHttpClient-1-10] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+20:08:55.505 [TestNG-tests-2] DEBUG realtimeproject.LoginTest - Browser got closed
